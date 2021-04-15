@@ -1,50 +1,22 @@
-# 19104057-SE03B- Yolanda_Al_Hidayah_Pemrograman_GUI
+# Pemrograman GUI 
 
-## GUI Components in Qt Designer
+## Intro
+Haloo, saya Yolanda Al Hidayah Pasaribu dengan NIM 19104057, dari kelas SE 03 B, prodi S1 Software Engineering Institut Teknologi Telkom Purwokerto. Repository ini merupakan hasil dari kerja tugas mata kuliah Pemrograman GUI Teori dan Praktikum.
 
-Project ini adalah membuat komponen-komponen yang ada pada Pemrograman GUI menggunakan aplikasi Qt Designer yang merupakan tugas dari mata kuliah Pemrograman GUI Teori (SE-03-B) Semester 4 Prodi S1 Software Engineering Institut Teknologi Telkom Purwokerto.
+## Pemrograman GUI Teori
 
-## Teknologi yang digunakan
+Untuk melihat hasil kerja dari pemrograman GUI Teori kamu bisa membukanya di branch yang bernama [**"Teori"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/tree/Teori)
 
-Adapun teknologi yang kami gunakan adalah Qt Designer untuk mendesain dan mem-build Graphical User Interfaces menggunakan QtComponents.
+Pada branch ini terdapat hasil kerja tugas saya seperti
 
-## Dokumentasi
+ - GUI Components in Qt Designer
 
-1. Calendar Widget (Windows Vista Style)
-<img src = " https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/blob/Teori/GUI-Components-in-Qt-Designer-main/latihan1.gif" >
+	 
 
-| Komponen |
-| ------ |
-| Grid Layout |
-| Vertical Layout|
-| Group Box|
-| calendarWidget |
-| Label |
-| Text Edit |
-| CheckBox |
-| ComboBox |
+## Pemrograman GUI Praktikum
+Untuk melihat hasil kerja dari pemrograman GUI praktikum. kamu bisa membukanya di branch yang bernama ["Praktikum"](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/tree/Praktikum)
 
+Pada branch ini terdapat hasil kerja tugas saya seperti
 
-2. Styles (Fushion Styles)
-<img src= " https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/blob/Teori/GUI-Components-in-Qt-Designer-main/latihan2.gif">
+ - Modul 1 : Instalasi Anaconda, Pengenalan Tipe Data, Variabel dan Operator menggunakan bahasa Pemrograman Python
 
-| Komponen |
-| ------ |
-| Grid Layout |
-| Horizontal Layout |
-| Group Box |
-| Label |
-| CheckBox |
-| ComboBox |
-| Radio Button |
-| Push Button |
-| Tab  Widget |
-| Table Widget |
-| Line Edit |
-| Radio Button |
-| SpinBox |
-| Date Time Edit |
-| Horizontal Slider |
-| Horizontal ScrollBar |
-| Dial |
-| Progress Bar |
