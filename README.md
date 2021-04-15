@@ -1,5 +1,3 @@
-# Pemrograman GUI 
-
 ## Intro
 Haloo, saya Yolanda Al Hidayah Pasaribu dengan NIM 19104057, dari kelas SE 03 B, prodi S1 Software Engineering Institut Teknologi Telkom Purwokerto. Repository ini merupakan hasil dari kerja tugas mata kuliah Pemrograman GUI Teori dan Praktikum.
 
