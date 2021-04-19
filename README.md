@@ -16,5 +16,5 @@ Untuk melihat hasil kerja dari pemrograman GUI praktikum, kamu bisa membukanya d
 
 Pada branch ini terdapat hasil kerja tugas saya seperti :
 
- - Modul 1 : Instalasi Anaconda, Pengenalan Tipe Data, Variabel dan Operator menggunakan bahasa Pemrograman Python
-
+ - MODUL 1 : Instalasi Anaconda, Pengenalan Tipe Data, Variabel dan Operator menggunakan bahasa Pemrograman Python
+ - MODUL 2 : Struktur Kontrol dan Fungsi 
