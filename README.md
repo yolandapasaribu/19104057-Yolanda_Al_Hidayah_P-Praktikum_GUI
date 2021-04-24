@@ -7,8 +7,8 @@ Untuk melihat hasil kerja dari pemrograman GUI Teori kamu bisa membukanya di bra
 
 Pada branch ini terdapat hasil kerja tugas saya seperti :
 
- - GUI Components in Qt Designer
- - GUI Components in PyQt5
+ -  [**"Teori 1"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-1) : GUI Components in Qt Designer
+ -  [**"Teori 2"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-2) : GUI Components in PyQt5 
 
 	 
 
@@ -16,5 +16,6 @@ Pada branch ini terdapat hasil kerja tugas saya seperti :
 
 Pada branch ini terdapat hasil kerja tugas saya seperti :
 
- - Praktikum 1 : Instalasi Anaconda, Pengenalan Tipe Data, Variabel dan Operator menggunakan bahasa Pemrograman Python
- - Praktikum 2 : Struktur Kontrol dan Fungsi 
+ - [**"Praktikum 1"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-1) : Instalasi Anaconda, Pengenalan Tipe Data, Variabel dan Operator menggunakan bahasa Pemrograman Python
+ - [**"Praktikum 2"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-2) : Struktur Kontrol dan Fungsi 
+
