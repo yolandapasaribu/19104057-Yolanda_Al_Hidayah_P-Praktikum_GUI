@@ -8,6 +8,7 @@ Untuk melihat hasil kerja dari pemrograman GUI Teori kamu bisa membukanya di bra
 Pada branch ini terdapat hasil kerja tugas saya seperti :
 
  - GUI Components in Qt Designer
+ - GUI Components in PyQt5
 
 	 
 
