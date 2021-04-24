@@ -3,8 +3,6 @@ Haloo, saya Yolanda Al Hidayah Pasaribu dengan NIM 19104057, dari kelas SE 03 B,
 
 ## Pemrograman GUI Teori
 
-Untuk melihat hasil kerja dari pemrograman GUI Teori kamu bisa membukanya di branch yang bernama [**"Teori"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/tree/Teori)
-
 Pada branch ini terdapat hasil kerja tugas saya seperti :
 
  -  [**"Teori 1"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-1) : GUI Components in Qt Designer
