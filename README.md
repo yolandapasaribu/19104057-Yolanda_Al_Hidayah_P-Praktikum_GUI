@@ -4,11 +4,11 @@ NIM : 19104057
 Kelas : SE 03 B
 
 ## Tentang Aplikasi
-Project ini adalah membuat UI Form Data Mahasiswa. Adapun teknologi yang saya gunakan adalah Qt Designer untuk mendesain dan diconvert ke Python.
+Project ini adalah membuat UI Form Data Mahasiswa. Adapun teknologi yang saya gunakan adalah Qt Designer dan diconvert ke Python.
 
 ## Dokumentasi
 
-<img src = "https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/blob/Teori/GUI-Components-in-Qt-Designer-main/latihan1.gif" >
+<img src = "https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/blob/Teori-3/output.png" >
 
 | Keterangan Komponen |
 | ------ |
