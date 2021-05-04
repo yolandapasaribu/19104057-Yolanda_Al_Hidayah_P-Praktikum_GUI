@@ -12,8 +12,8 @@ Project ini adalah membuat UI Form Data Mahasiswa. Adapun teknologi yang saya gu
 
 | Keterangan Komponen |
 | ------ |
-| 1. Label |
-| 2. ListWidget |
-| 3. Label |
-| 4. LineEdit |
-| 5. PushButton |
+| 1. Label : Untuk membuat Text Data Mahasiswa |
+| 2. ListWidget : Untuk membuat List Ouput Data Mahasiswa |
+| 3. Label : Untuk membuat Text Nama, NIM, Jurusan, No.Telp  |
+| 4. LineEdit : Komponen untuk membuat inputan |
+| 5. PushButton : Komponen untuk Membuat Button Tambah, Edit, Clear, Hapus |
