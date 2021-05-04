@@ -1,20 +1,19 @@
-## Intro
-Haloo, saya Yolanda Al Hidayah Pasaribu dengan NIM 19104057, dari kelas SE 03 B, prodi S1 Software Engineering Institut Teknologi Telkom Purwokerto. Repository ini merupakan hasil dari kerja tugas mata kuliah Pemrograman GUI Teori dan Praktikum.
+# GUI FORM DATA MAHASISWA
+Nama : Yolanda Al Hidayah Pasaribu
+NIM : 19104057
+Kelas : SE 03 B
 
-## Pemrograman GUI Teori
+## Tentang Aplikasi
+Project ini adalah membuat UI Form Data Mahasiswa. Adapun teknologi yang saya gunakan adalah Qt Designer untuk mendesain dan diconvert ke Python.
 
-Pada branch ini terdapat hasil kerja tugas saya seperti :
+## Dokumentasi
 
- -  [**"Teori 1"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-1) : GUI Components in Qt Designer
- -  [**"Teori 2"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-2) : GUI Components in PyQt5 
+<img src = "https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_P-Praktikum_GUI/blob/Teori/GUI-Components-in-Qt-Designer-main/latihan1.gif" >
 
-	 
-
-## Pemrograman GUI Praktikum
-
-Pada branch ini terdapat hasil kerja tugas saya seperti :
-
- - [**"Praktikum 1"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-1) : Instalasi Anaconda, Pengenalan Tipe Data, Variabel dan Operator menggunakan bahasa Pemrograman Python
- - [**"Praktikum 2"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-2) : Struktur Kontrol dan Fungsi 
- - [**"Praktikum 3"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-3) : Kelas dan Modul
-
+| Keterangan Komponen |
+| ------ |
+| 1. || Label |
+| 2. || ListWidget |
+| 3. || Label |
+| 4. || LineEdit |
+| 5. || PushButton |
