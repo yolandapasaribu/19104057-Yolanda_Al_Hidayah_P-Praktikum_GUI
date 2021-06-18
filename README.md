@@ -7,6 +7,7 @@ Pada branch ini terdapat hasil kerja tugas saya seperti :
 
  -  [**"Teori 1"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-1) : GUI Components in Qt Designer
  -  [**"Teori 2"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-2) : GUI Components in PyQt5 
+ -  [**"Teori 3"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Teori-3)
 
 	 
 
