@@ -19,4 +19,5 @@ Pada branch ini terdapat hasil kerja tugas saya seperti :
  - [**"Praktikum 2"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-2) : Struktur Kontrol dan Fungsi 
  - [**"Praktikum 3"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-3) : Kelas dan Modul
  - [**"Praktikum 4"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-4) 
- - [**"Praktikum 5"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-5) 
+ - [**"Praktikum 5"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-5)
+ - [**"Praktikum 6"**](https://github.com/yolandapasaribu/19104057-Yolanda_Al_Hidayah_Pemrograman_GUI/tree/Praktikum-6)
